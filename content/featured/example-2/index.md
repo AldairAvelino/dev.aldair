@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Example 2'
-cover: './'
+cover: './demo.png'
 github: '#'
 external: '#'
 tech:
@@ -9,4 +9,4 @@ tech:
   - CSS
 ---
 
-A short description of the system
+A short description of system
