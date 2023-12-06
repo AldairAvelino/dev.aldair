@@ -8,7 +8,7 @@ android: '#'
 tech:
   - example
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Lrem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut tempus erat, et ultrices magna. Sed scelerisque sem id fermentum vestibulum.
