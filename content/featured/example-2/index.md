@@ -1,12 +1,12 @@
 ---
 date: '2'
-title: 'Example 2'
+title: 'Web Calculator'
 cover: './demo.png'
-github: '#'
-external: '#'
+github: 'https://github.com/AldairAvelino/web-calculator'
+external: 'https://aldairavelino.github.io/web-calculator/'
 tech:
-  - HTML
-  - CSS
+  - HTML 5
+  - CSS 3
 ---
 
-A short description of system
+Simplify your math with our Basic Web Calculator—quick, easy, and hassle-free for all your calculations!
